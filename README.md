@@ -14,7 +14,8 @@ Others are: C# and C++
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-35849E?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=101010)]()
 
 [![Chrome](https://img.shields.io/badge/Chrome_for_Devs-F57C00?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
-[![Android Studio](https://img.shields.io/badge/Intellij_IDEA-323232?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=101010)]()
+
+[![Intellj IDEA](https://img.shields.io/badge/Intellij_IDEA-323232?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=101010)]()
 
 ## Platforms:
 [![Android](https://img.shields.io/badge/Android-3ED283?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
