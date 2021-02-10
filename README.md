@@ -2,7 +2,7 @@
 
 Hello, My name is Toastcode and I am an android application developer, My github account was recreated in 2020 due to internal issues, so if you had any doubts about the date, there is your answer.
 
-## Languages Learned:
+## Languages:
 [![Java](https://img.shields.io/badge/Java-FA6709?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0288D1?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 
