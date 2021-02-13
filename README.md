@@ -9,7 +9,7 @@ Hello, My name is Toastcode and I am an android application developer, My github
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-Others are: C# and C++
+I'm still learning...
 ## Used Programs:
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-35849E?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=101010)]()
 
