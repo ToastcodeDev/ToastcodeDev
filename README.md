@@ -11,7 +11,7 @@ Hello, My name is Toastcode and I am an android application developer, My github
 
 I'm still learning...
 ## Used Programs:
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-35849E?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=101010)]()
+[![Atom](https://img.shields.io/badge/Atom-00C853?style=for-the-badge&logo=atom&logoColor=white&labelColor=101010)]()
 
 [![Chrome](https://img.shields.io/badge/Chrome_for_Devs-F57C00?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
 
